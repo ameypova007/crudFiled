@@ -1,8 +1,9 @@
 # crudFiled
 The repo contains the CRUD operation performed using flask API's
 1. Clone the repo on your local directory
-2. Below are the 4 API's that have been created using flask and sqlalchemy.
-2.1 Post - http://127.0.0.1:5000/post/new 
+2. To run the code - python run.py
+3. Below are the 4 API's that have been created using flask and sqlalchemy.
+4.1 Post - http://127.0.0.1:5000/post/new 
 **  request body for AudioType Song:
 **  
 {
